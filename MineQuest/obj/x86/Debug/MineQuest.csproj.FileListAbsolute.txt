@@ -1,0 +1,6 @@
+/Users/codenation12/Projects/MineQuest/MineQuest/bin/Debug/MineQuest.exe
+/Users/codenation12/Projects/MineQuest/MineQuest/bin/Debug/MineQuest.pdb
+/Users/codenation12/Projects/MineQuest/MineQuest/obj/x86/Debug/MineQuest.csprojResolveAssemblyReference.cache
+/Users/codenation12/Projects/MineQuest/MineQuest/obj/x86/Debug/MineQuest.csproj.CoreCompileInputs.cache
+/Users/codenation12/Projects/MineQuest/MineQuest/obj/x86/Debug/MineQuest.exe
+/Users/codenation12/Projects/MineQuest/MineQuest/obj/x86/Debug/MineQuest.pdb

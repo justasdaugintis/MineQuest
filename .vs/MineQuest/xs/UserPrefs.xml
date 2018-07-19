@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9BB2B9B5-2629-4A4F-8F4B-FEC3E3710BEF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MineQuest/Mine.cs">
+    <Files>
+      <File FileName="MineQuest/Mine.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MineQuest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
